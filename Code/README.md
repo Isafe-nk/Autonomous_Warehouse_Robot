@@ -1,4 +1,4 @@
-## PathFinder
+## AlgoPath
 This project provides a visual representation of different pathfinding algorithms within a grid-based environment. It is designed to demonstrate how algorithms like **Breadth-First Search (BFS)** and **Dijkstra's** Algorithm navigate between points in a grid to find the shortest path while avoiding obstacles.  
 
 ## How to Run
