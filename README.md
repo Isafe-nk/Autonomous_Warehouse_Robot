@@ -8,7 +8,7 @@ This project provides a visual representation of different pathfinding algorithm
 
 **2. Clone Repository** 
     ```
-    git clone https://github.com/hcyxl4/PathFinder.git
+    git clone (https://github.com/Isafe-nk/Autonomous_Warehouse_Robot.git)
     ```
 
 **3. Run** `main.py`
